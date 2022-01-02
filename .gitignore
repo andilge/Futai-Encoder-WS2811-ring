@@ -1,0 +1,21 @@
+# excluding folders
+/.git
+/Futai Encoder + WS2811 ring-backups
+
+# excluding KiCAD temp files
+# Format documentation: https://dev-docs.kicad.org/en/file-formats/
+*.kicad_pcb-bak
+*.kicad_sch-bak
+_autosave-Futai Encoder + WS2811 ring.kicad_pcb
+fp-info-cache
+fp-lib-table
+sym-lib-table
+
+# excluding other file types and temp. files
+*.xlsx
+*.xlsx#
+*.odt
+*.odt#
+*.ods
+*.ods#
+*.csv#
