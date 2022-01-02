@@ -1,7 +1,7 @@
 ![The PCB](https://github.com/andilge/Futai-Encoder-WS2811-ring/blob/main/images/front-and-back.png?raw=true)
 
 # Futai RGB encoder, 12 WS2811 F5 LED ring on a white blinde plate
-The ultimate DIY human light controller interface plenty of colored lights.
+The ultimate DIY human light controller interface plenty of colored LEDs.
 
 ## Credits
 Shoutout to [ezcGman](https://github.com/ezcGman "ezcGman") for the assistance with the KiCad symbols and footprints.
