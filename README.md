@@ -12,6 +12,8 @@ This project uses custom KiCad symbols and footprints. Follow folder 'libs' with
 ## Parts list
 The folder 'gerber-and-bom' contains the zipped production files for pcb ordering and intercative bill of material ibom.html with purchase links for the components.
 
+You can purchase 10 blind plates also on [aliexpress.com](https://www.aliexpress.com/item/32884601740.html "aliexpress.com")
+
 ## Schematic
 Dive deeper into technics in the folder 'datasheets-and-schematic'.
 
