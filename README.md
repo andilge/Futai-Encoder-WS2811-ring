@@ -4,7 +4,7 @@
 The ultimate DIY human light controller interface plenty of colored LEDs.
 
 ## Credits
-Shoutout to [ezcGman](https://github.com/ezcGman "ezcGman") for the assistance with the KiCad symbols and footprints.
+Shoutout to [ezcGman](https://github.com/ezcGman "ezcGman") for the assistance with the KiCad symbols and footprints as well as hints about thermal reliefs on pads.
 
 ## KiCad dependencies
 This project uses custom KiCad symbols and footprints. Follow folder 'libs' with all details.
