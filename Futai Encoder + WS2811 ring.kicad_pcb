@@ -469,7 +469,7 @@
     (pad "MP" thru_hole roundrect (at 0 5.6) (size 3.4 3) (drill oval 2.4 2) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp 9ffb39b7-1e81-4130-8633-5872c668fe87))
     (pad "MP" thru_hole roundrect (at 0 -5.6) (size 3.4 3) (drill oval 2.4 2) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp ccdf85fe-12f1-41eb-a6d3-87310f287664))
     (model "${KIPRJMOD}/libs/3dmodels/EC12E-200.STEP"
-      (offset (xyz 0 0 0))
+      (offset (xyz 0 0 1))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))
     )
