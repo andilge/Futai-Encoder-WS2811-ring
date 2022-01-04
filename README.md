@@ -7,7 +7,7 @@ The ultimate DIY human light controller interface plenty of colored LEDs.
 Shoutout to [ezcGman](https://github.com/ezcGman "ezcGman") for the assistance with the KiCad symbols and footprints as well as hints about thermal reliefs on pads.
 
 ## KiCad dependencies
-This project uses custom KiCad symbols and footprints. Follow folder 'libs' with all details.
+This project uses custom KiCad symbols and footprints and 3D models. Follow folder 'libs' with all details.
 
 ## Parts list
 The folder 'gerber-and-bom' contains the zipped production files for pcb ordering and intercative bill of material ibom.html with purchase links for the components.

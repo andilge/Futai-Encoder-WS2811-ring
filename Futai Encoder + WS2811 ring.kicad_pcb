@@ -165,13 +165,8 @@
       (net 2 "GND") (pinfunction "VSS") (pintype "power_in") (zone_connect 1) (thermal_width 3) (thermal_gap 0.3) (tstamp 4af5d6da-b40e-43c2-ad85-edda97e0360d))
     (pad "4" thru_hole oval (at -1.65 0 105) (size 0.9 1.8) (drill 0.7) (layers *.Cu *.Mask)
       (net 18 "Net-(D7-Pad1)") (pinfunction "DIN") (pintype "input") (tstamp 49084907-22c7-4a78-93df-f7b969878775))
-    (model "${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl" hide
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
     (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm-4_RGB.wrl"
-      (offset (xyz -1.9 0 0))
+      (offset (xyz -1.9 0 -2.9))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -210,13 +205,8 @@
       (net 2 "GND") (pinfunction "VSS") (pintype "power_in") (zone_connect 1) (thermal_width 3) (thermal_gap 0.3) (tstamp 037918d2-6537-49eb-a1be-7a0f61cafed0))
     (pad "4" thru_hole oval (at -1.65 0 255) (size 0.9 1.8) (drill 0.7) (layers *.Cu *.Mask)
       (net 9 "Net-(D2-Pad1)") (pinfunction "DIN") (pintype "input") (tstamp 8dabd337-ea4a-4f81-852e-f9b51fdfbea1))
-    (model "${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl" hide
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
     (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm-4_RGB.wrl"
-      (offset (xyz -1.9 0 0))
+      (offset (xyz -1.9 0 -2.9))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -255,13 +245,8 @@
       (net 2 "GND") (pinfunction "VSS") (pintype "power_in") (zone_connect 1) (thermal_width 3) (thermal_gap 0.3) (tstamp b5608943-a3ab-4d1e-90b6-203746f04e4d))
     (pad "4" thru_hole oval (at -1.65 0 225) (size 0.9 1.8) (drill 0.7) (layers *.Cu *.Mask)
       (net 35 "Net-(D3-Pad1)") (pinfunction "DIN") (pintype "input") (tstamp c3932927-ffdf-4f8c-8599-573bd596067b))
-    (model "${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl" hide
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
     (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm-4_RGB.wrl"
-      (offset (xyz -1.9 0 0))
+      (offset (xyz -1.9 0 -2.9))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -300,13 +285,8 @@
       (net 2 "GND") (pinfunction "VSS") (pintype "power_in") (zone_connect 1) (thermal_width 3) (thermal_gap 0.3) (tstamp cfeeec1e-c660-473a-ad97-d030ffd67786))
     (pad "4" thru_hole oval (at -1.65 0 135) (size 0.9 1.8) (drill 0.7) (layers *.Cu *.Mask)
       (net 36 "Net-(D6-Pad1)") (pinfunction "DIN") (pintype "input") (tstamp 34d66efa-4d07-4215-81ac-befb2ca8cab6))
-    (model "${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl" hide
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
     (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm-4_RGB.wrl"
-      (offset (xyz -1.9 0 0))
+      (offset (xyz -1.9 0 -2.9))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -345,13 +325,8 @@
       (net 2 "GND") (pinfunction "VSS") (pintype "power_in") (zone_connect 1) (thermal_width 3) (thermal_gap 0.3) (tstamp ba0ee70a-2506-4353-ad98-48e6b03590f1))
     (pad "4" thru_hole oval (at -1.65 0 285) (size 0.9 1.8) (drill 0.7) (layers *.Cu *.Mask)
       (net 7 "Net-(D1-Pad1)") (pinfunction "DIN") (pintype "input") (tstamp 395de1a9-b67f-40e2-93c8-271f36cfdafb))
-    (model "${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl" hide
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
     (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm-4_RGB.wrl"
-      (offset (xyz -1.9 0 0))
+      (offset (xyz -1.9 0 -2.9))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -390,13 +365,8 @@
       (net 2 "GND") (pinfunction "VSS") (pintype "power_in") (zone_connect 1) (thermal_width 3) (thermal_gap 0.3) (tstamp a6fee119-411b-4d52-b1fb-8d070c9ec24e))
     (pad "4" thru_hole oval (at -1.65 0 15) (size 0.9 1.8) (drill 0.7) (layers *.Cu *.Mask)
       (net 23 "Net-(D10-Pad1)") (pinfunction "DIN") (pintype "input") (tstamp 3cc2db8d-c4db-475c-8b6a-3d273e35f4c2))
-    (model "${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl" hide
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
     (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm-4_RGB.wrl"
-      (offset (xyz -1.9 0 0))
+      (offset (xyz -1.9 0 -2.9))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -469,7 +439,7 @@
     (pad "MP" thru_hole roundrect (at 0 5.6) (size 3.4 3) (drill oval 2.4 2) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp 9ffb39b7-1e81-4130-8633-5872c668fe87))
     (pad "MP" thru_hole roundrect (at 0 -5.6) (size 3.4 3) (drill oval 2.4 2) (layers *.Cu *.Mask) (roundrect_rratio 0.25) (tstamp ccdf85fe-12f1-41eb-a6d3-87310f287664))
     (model "${KIPRJMOD}/libs/3dmodels/EC12E-200.STEP"
-      (offset (xyz 0 0 1))
+      (offset (xyz 0 0 2.2))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))
     )
@@ -508,13 +478,8 @@
       (net 2 "GND") (pinfunction "VSS") (pintype "power_in") (zone_connect 1) (thermal_width 3) (thermal_gap 0.3) (tstamp 357f6255-eeb1-4666-b281-1047c75a08cb))
     (pad "4" thru_hole oval (at -1.65 0 345) (size 0.9 1.8) (drill 0.7) (layers *.Cu *.Mask)
       (net 24 "Net-(D11-Pad1)") (pinfunction "DIN") (pintype "input") (tstamp bd20bba1-0ffe-48e3-baff-fea91514ea6b))
-    (model "${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl" hide
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
     (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm-4_RGB.wrl"
-      (offset (xyz -1.9 0 0))
+      (offset (xyz -1.9 0 -2.9))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -553,13 +518,8 @@
       (net 2 "GND") (pinfunction "VSS") (pintype "power_in") (zone_connect 1) (thermal_width 3) (thermal_gap 0.3) (tstamp e19e5aa1-2e09-44d2-8eae-d3704dd8a962))
     (pad "4" thru_hole oval (at -1.65 0 315) (size 0.9 1.8) (drill 0.7) (layers *.Cu *.Mask)
       (net 8 "DIN") (pinfunction "DIN") (pintype "input") (tstamp bb6ea7b8-7a3a-4e0a-a9b5-f156ca2d89ff))
-    (model "${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl" hide
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
     (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm-4_RGB.wrl"
-      (offset (xyz -1.9 0 0))
+      (offset (xyz -1.9 0 -2.9))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -598,13 +558,8 @@
       (net 2 "GND") (pinfunction "VSS") (pintype "power_in") (zone_connect 1) (thermal_width 3) (thermal_gap 0.3) (tstamp 7f6aeece-f9e0-4132-815f-abbf23fc1423))
     (pad "4" thru_hole oval (at -1.65 0 195) (size 0.9 1.8) (drill 0.7) (layers *.Cu *.Mask)
       (net 13 "Net-(D4-Pad1)") (pinfunction "DIN") (pintype "input") (tstamp 4ab22f79-d733-43ed-a577-3b741a6d9710))
-    (model "${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl" hide
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
     (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm-4_RGB.wrl"
-      (offset (xyz -1.9 0 0))
+      (offset (xyz -1.9 0 -2.9))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -643,13 +598,8 @@
       (net 2 "GND") (pinfunction "VSS") (pintype "power_in") (zone_connect 1) (thermal_width 3) (thermal_gap 0.3) (tstamp 11cd48e1-db2c-4834-8cc3-36ca16ff768f))
     (pad "4" thru_hole oval (at -1.65 0 75) (size 0.9 1.8) (drill 0.7) (layers *.Cu *.Mask)
       (net 19 "Net-(D8-Pad1)") (pinfunction "DIN") (pintype "input") (tstamp 8296cac9-26a1-4370-a310-40c9c0283f4e))
-    (model "${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl" hide
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
     (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm-4_RGB.wrl"
-      (offset (xyz -1.9 0 0))
+      (offset (xyz -1.9 0 -2.9))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -688,13 +638,8 @@
       (net 2 "GND") (pinfunction "VSS") (pintype "power_in") (zone_connect 1) (thermal_width 3) (thermal_gap 0.3) (tstamp 4c9c63ce-f0bc-429f-ad49-dddaedd37d6b))
     (pad "4" thru_hole oval (at -1.65 0 165) (size 0.9 1.8) (drill 0.7) (layers *.Cu *.Mask)
       (net 14 "Net-(D5-Pad1)") (pinfunction "DIN") (pintype "input") (tstamp 6ac83e5b-46b6-4fc3-988b-ccbdecbcbd3b))
-    (model "${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl" hide
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
     (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm-4_RGB.wrl"
-      (offset (xyz -1.9 0 0))
+      (offset (xyz -1.9 0 -2.9))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -733,13 +678,8 @@
       (net 2 "GND") (pinfunction "VSS") (pintype "power_in") (zone_connect 1) (thermal_width 3) (thermal_gap 0.3) (tstamp 164d361d-2b49-42c4-8489-9d1462eb55ac))
     (pad "4" thru_hole oval (at -1.65 0 45) (size 0.9 1.8) (drill 0.7) (layers *.Cu *.Mask)
       (net 21 "Net-(D10-Pad4)") (pinfunction "DIN") (pintype "input") (tstamp 15530beb-1b41-4d8b-99b8-26e3599ee547))
-    (model "${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl" hide
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
-    )
     (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm-4_RGB.wrl"
-      (offset (xyz -1.9 0 0))
+      (offset (xyz -1.9 0 -2.9))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
