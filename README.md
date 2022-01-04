@@ -4,7 +4,9 @@
 The ultimate DIY human light controller interface plenty of colored LEDs.
 
 ## Credits
-Shoutout to [ezcGman](https://github.com/ezcGman "ezcGman") for the assistance with the KiCad symbols and footprints as well as hints about thermal reliefs on pads.
+Inspired by [isotope-engineering's RGB rotary encoder](https://github.com/isotope-engineering/RGB-Encoder-Board "isotope-engineering's RGB rotary encoder").
+
+Shoutout to [ezcGman](https://github.com/ezcGman "ezcGman") for the assistance with the KiCad symbols and footprints as well as the hints about thermal reliefs on pads.
 
 ## KiCad dependencies
 This project uses custom KiCad symbols and footprints and 3D models. Follow folder 'libs' with all details.
