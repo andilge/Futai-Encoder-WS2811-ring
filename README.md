@@ -13,17 +13,25 @@ Shoutout to [ezcGman](https://github.com/ezcGman "ezcGman") for the assistance w
 There are reports about wrong pin out for the addressable LEDs (D1-D12) 
 ***
 
-The [official data sheet right from the producer](http://cn.world-semi.com/DownLoadFile/98 "official data sheet right from the producer") says /
-pin1 - DOUT /
-pin2 - VCC /
-pin3 - GND /
-pin4 - DIN
+The [official data sheet right from the producer](http://cn.world-semi.com/DownLoadFile/98 "official data sheet right from the producer") says
 
-With the purchase URL in the BOM, you might get LEDs with 180 degree flipped around pin out /
-pin1 - DIN /
-pin2 - GND /
-pin3 - VCC /
-pin4 - DOUT
+|  pin # |   description   |
+|--------|:---------------:|
+|   1    |       DOUT      |
+|   2    |       VCC       |
+|   3    |       GND       |
+|   4    |       DIN       |
+
+
+With the purchase URL in the BOM, you might get LEDs with 180 degree flipped around pin out
+
+|  pin # |   description   |
+|--------|:---------------:|
+|   1    |       DIN       |
+|   2    |       GND       |
+|   3    |       VCC       |
+|   4    |       DOUT      |
+
 
 If you solder these faulty LEDs on the board "the right way around" the following will happen:
 No light turns on and the LEDs instantly burn off to nirvana :-( rip
