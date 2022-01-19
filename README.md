@@ -14,7 +14,6 @@ There are reports about wrong pin out for the addressable LEDs (D1-D12)
 ***
 
 The [official data sheet right from the producer](http://cn.world-semi.com/DownLoadFile/98 "official data sheet right from the producer") says
-
 |  pin # |   description   |
 |--------|:---------------:|
 |   1    |       DOUT      |
@@ -24,7 +23,6 @@ The [official data sheet right from the producer](http://cn.world-semi.com/DownL
 
 
 With the purchase URL in the BOM, you might get LEDs with 180 degree flipped around pin out
-
 |  pin # |   description   |
 |--------|:---------------:|
 |   1    |       DIN       |
