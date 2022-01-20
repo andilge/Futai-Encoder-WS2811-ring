@@ -1,6 +1,6 @@
 ![The PCB](https://github.com/andilge/Futai-Encoder-WS2811-ring/blob/main/images/front-and-back.png?raw=true)
 
-# Futai RGB encoder, 12 WS2811 F5 LED ring on a translucent white blinde plate
+# Futai RGB encoder, 12 WS2811 F5 LED ring on a translucent blank cover panel
 The ultimate DIY human light controller interface plenty of colored LEDs.
 
 ## Credits
@@ -46,7 +46,7 @@ This project uses custom KiCad symbols and footprints and 3D models. Follow fold
 ## Parts list
 The folder 'fabrication' contains the zipped production files for pcb ordering and interactive bill of material ibom.html with purchase links for the components.
 
-Additional to this you can purchase 10 blind plates also on [aliexpress.com](https://www.aliexpress.com/item/32884601740.html "aliexpress.com")
+Additional to this you can purchase 10 blank cover panels on [aliexpress.com](https://www.aliexpress.com/item/32884601740.html "aliexpress.com")
 
 ## Schematic
 Dive deeper into details in the folder 'datasheets-and-schematic'.
