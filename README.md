@@ -13,9 +13,9 @@ Shoutout to [ezcGman](https://github.com/ezcGman "ezcGman") for the assistance w
 There are reports about wrong pin out for the addressable LEDs (D1-D12) 
 ***
 
-The [official data sheet right from the producer](http://cn.world-semi.com/DownLoadFile/98 "official data sheet right from the producer") says
+The [official data sheet from the producer](http://cn.world-semi.com/DownLoadFile/98 "official data sheet right from the producer") says
 |  pin # |   description   |
-|--------|:---------------:|
+|:------:|:---------------:|
 |   1    |       DOUT      |
 |   2    |       VCC       |
 |   3    |       GND       |
@@ -24,7 +24,7 @@ The [official data sheet right from the producer](http://cn.world-semi.com/DownL
 
 With the purchase URL in the BOM, you might get LEDs with 180 degree flipped around pin out
 |  pin # |   description   |
-|--------|:---------------:|
+|:------:|:---------------:|
 |   1    |       DIN       |
 |   2    |       GND       |
 |   3    |       VCC       |
@@ -32,9 +32,9 @@ With the purchase URL in the BOM, you might get LEDs with 180 degree flipped aro
 
 
 If you solder these faulty LEDs on the board "the right way around" the following will happen:
-No light turns on and the LEDs instantly burn off to nirvana :-( rip
+No light turns on and the LEDs instantly burn off to nirvana, some with, others without magic smoke :astonished: rip
 
-If you receive LEDs with flipped pins you can still use them. The board continues following the specification and can handle these faulty LEDs if you just place them "the wrong way around". Basically flipped pin out together with flipped placement turns out as success again :man_facepalming:.
+The board continues following the specification and can handle these faulty LEDs if you just place them "the wrong way around". Basically, flipped pins together with flipped placement turns out as success again :man_facepalming:.
 
 IMPORTANT: Please test a LED from the sent bunch first to get a reality approach about which way around you should use them !
 
