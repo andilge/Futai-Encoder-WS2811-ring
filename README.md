@@ -43,7 +43,7 @@ No light turns on and the LEDs instantly burn off to nirvana, some with, others 
 
 The board continues following the LED''s specification and can handle these faulty LEDs if you just place them "the wrong way around". Basically, flipped pins together with flipped placement turns out as success again :man_facepalming:.
 
-IMPORTANT: Please test a LED from the sent bunch first to get a reality approach about which way around you should use them !
+**IMPORTANT**: Please test a LED from the sent bunch first to get a reality approach about which way around you should use them !
 
 Special thanks to [ezcGman](https://github.com/ezcGman "ezcGman") for burning time and components to achieve this particular insight.
 
