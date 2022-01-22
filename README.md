@@ -17,11 +17,10 @@ The folder 'fabrication' contains the zipped production files for pcb ordering a
 Additional to this you can purchase 10 blank cover panels on [aliexpress.com](https://www.aliexpress.com/item/32884601740.html "aliexpress.com")
 
 ### SPECIAL ATTENTION REQUIRED !
-***
-There are reports about wrong pin out for the addressable LEDs (D1-D12) 
+*There are reports about wrong pin out for the addressable LEDs (D1-D12)*
 ***
 
-The [official data sheet from the producer](http://cn.world-semi.com/DownLoadFile/98 "official data sheet right from the producer") says
+The [official data sheet from the producer](http://cn.world-semi.com/DownLoadFile/98 "official data sheet from the producer") says
 |  pin # |   description   |
 |:------:|:---------------:|
 |   1    |       DOUT      |
@@ -62,10 +61,10 @@ Special thanks to [ezcGman](https://github.com/ezcGman "ezcGman") for burning ti
 | Dout       | Data bus out for the adressable LEDs                                          |
 
 *For compatibility reasons with rbg strips, the board exptects 24V (also dimmed with pwm) at the rgb pin headers. If you're driving your **strip with 12V**, please change the value for **R51, R61 and R71 to 5.1kΩ**.
-![Voltage devider for encoder LED](https://github.com/andilge/Futai-Encoder-WS2811-ring/blob/main/images/v-devider-for-encoder-LED.png?raw=true)
+![Voltage deviders for encoder LED](https://github.com/andilge/Futai-Encoder-WS2811-ring/blob/main/images/v-devider-for-encoder-LED.png?raw=true)
 
 ## Schematic
-Dive deeper into details in the folder 'datasheets-and-schematic'.
+Dive deeper into echnical details in the folder 'datasheets-and-schematic'.
 
 ## Tools list
 ### Required
@@ -73,9 +72,9 @@ Dive deeper into details in the folder 'datasheets-and-schematic'.
 - Solder
 
 ### Optional
-- For SMD components:
-- A hot air soldering/re-flow station. However, the smallest parts are 0805 SMD components which can be soldered with a soldering iron. The LED's legs are very close together and easier to solder with hot air.
-- Solder paste
+- For SMD components and addressale LEDs:
+  - A hot air soldering/re-flow station. However, the smallest parts are 0805 SMD components which can be soldered with a soldering iron. The LED's legs are very close together and easier to solder with hot air.
+  - Solder paste
 - Tweezers
-- the famous IKEA cork coaster (Onderzetter) that gently takes up the heat of your soldering tools
+- The famous IKEA cork coaster (Onderzetter) that gently takes up the heat of your soldering tools
 
