@@ -8,6 +8,14 @@ Inspired by [isotope-engineering's RGB rotary encoder](https://github.com/isotop
 
 Shoutout to [ezcGman](https://github.com/ezcGman "ezcGman") for the assistance with the KiCad symbols and footprints, hints about thermal reliefs on pads and the continuous feedback about his experiences while building up the circuit with the board.
 
+## KiCad dependencies
+This project uses custom KiCad symbols and footprints and 3D models. Follow folder 'libs' with all details.
+
+## Parts list
+The folder 'fabrication' contains the zipped production files for pcb ordering and interactive bill of material ibom.html with purchase links for the components.
+
+Additional to this you can purchase 10 blank cover panels on [aliexpress.com](https://www.aliexpress.com/item/32884601740.html "aliexpress.com")
+
 ### SPECIAL ATTENTION REQUIRED !
 ***
 There are reports about wrong pin out for the addressable LEDs (D1-D12) 
@@ -30,23 +38,26 @@ With the purchase URL in the BOM, you might get LEDs with 180 degree flipped aro
 |   3    |       VCC       |
 |   4    |       DOUT      |
 
-
 If you solder these faulty LEDs on the board "the right way around" the following will happen:
 No light turns on and the LEDs instantly burn off to nirvana, some with, others without magic smoke :astonished: rip
 
-The board continues following the specification and can handle these faulty LEDs if you just place them "the wrong way around". Basically, flipped pins together with flipped placement turns out as success again :man_facepalming:.
+The board continues following the LED''s specification and can handle these faulty LEDs if you just place them "the wrong way around". Basically, flipped pins together with flipped placement turns out as success again :man_facepalming:.
 
 IMPORTANT: Please test a LED from the sent bunch first to get a reality approach about which way around you should use them !
 
 Special thanks to [ezcGman](https://github.com/ezcGman "ezcGman") for burning time and components to achieve this particular insight.
 
-## KiCad dependencies
-This project uses custom KiCad symbols and footprints and 3D models. Follow folder 'libs' with all details.
-
-## Parts list
-The folder 'fabrication' contains the zipped production files for pcb ordering and interactive bill of material ibom.html with purchase links for the components.
-
-Additional to this you can purchase 10 blank cover panels on [aliexpress.com](https://www.aliexpress.com/item/32884601740.html "aliexpress.com")
+## Connector pinout
+5V = 5 Volt
+GND = Ground
+EncA = Encoder A
+EncB = Encoder B
+SW = Switch. On pressing the switch, 5 Volt are being passed to this pinout
+RED = Red LED in the rotary encoder. For compatibility reasons with rbg strips, the board exptects 24V level at the pin header.
+GRE = Green LED in the rotary encoder. For compatibility reasons with rbg strips, the board exptects 24V level at the pin header.
+BLU = Blue LED in the rotary encoder. For compatibility reasons with rbg strips, the board exptects 24V level at the pin header.
+Din = Data bus for the adressable LEDs in
+Dout = Data bus for the adressable LEDs out
 
 ## Schematic
 Dive deeper into details in the folder 'datasheets-and-schematic'.
