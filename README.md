@@ -48,16 +48,18 @@ IMPORTANT: Please test a LED from the sent bunch first to get a reality approach
 Special thanks to [ezcGman](https://github.com/ezcGman "ezcGman") for burning time and components to achieve this particular insight.
 
 ## Connector pinout
-5V = 5 Volt
-GND = Ground
-EncA = Encoder A
-EncB = Encoder B
-SW = Switch. On pressing the switch, 5 Volt are being passed to this pinout
-RED = Red LED in the rotary encoder. For compatibility reasons with rbg strips, the board exptects 24V level at the pin header.
-GRE = Green LED in the rotary encoder. For compatibility reasons with rbg strips, the board exptects 24V level at the pin header.
-BLU = Blue LED in the rotary encoder. For compatibility reasons with rbg strips, the board exptects 24V level at the pin header.
-Din = Data bus for the adressable LEDs in
-Dout = Data bus for the adressable LEDs out
+| silkscreen | description                                                                                                                 |
+|------------|-----------------------------------------------------------------------------------------------------------------------------|
+| 5V         | 5 Volt                                                                                                                      |
+| GND        | Ground                                                                                                                      |
+| EncA       | Encoder A                                                                                                                   |
+| EncB       | Encoder B                                                                                                                   |
+| SW         | Switch. On pressing the switch, 5 Volt are being passed to this pinout.                                                     |
+| RED        | Red LED in the rotary encoder. For compatibility reasons with rbg strips, the board exptects 24V level at the pin header.   |
+| GRE        | Green LED in the rotary encoder. For compatibility reasons with rbg strips, the board exptects 24V level at the pin header. |
+| BLU        | Blue LED in the rotary encoder. For compatibility reasons with rbg strips, the board exptects 24V level at the pin header.  |
+| Din        | Data bus for the adressable LEDs in                                                                                         |
+| Dout       | Data bus for the adressable LEDs out                                                                                        |
 
 ## Schematic
 Dive deeper into details in the folder 'datasheets-and-schematic'.
