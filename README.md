@@ -18,7 +18,6 @@ Additional to this you can purchase 10 blank cover panels on [aliexpress.com](ht
 
 ### SPECIAL ATTENTION REQUIRED !
 *There are reports about wrong pin out for the addressable LEDs (D1-D12)*
-***
 
 The [official data sheet from the producer](http://cn.world-semi.com/DownLoadFile/98 "official data sheet from the producer") says
 |  pin # |   description   |
@@ -40,7 +39,7 @@ With the purchase URL in the BOM, you might get LEDs with 180 degree flipped aro
 If you solder these faulty LEDs on the board "the right way around" the following will happen:
 No light turns on and the LEDs instantly burn off to nirvana, some with, others without magic smoke :astonished: rip
 
-The board continues following the LED''s specification and can handle these faulty LEDs if you just place them "the wrong way around". Basically, flipped pins together with flipped placement turns out as success again :man_facepalming:.
+The board continues following the LED's specification and can handle these faulty LEDs if you just place them "the wrong way around". Basically, flipped pins together with flipped placement turns out as success again :man_facepalming:.
 
 **IMPORTANT**: Please test a LED from the sent bunch first to get a reality approach about which way around you should use them !
 
@@ -60,11 +59,11 @@ Special thanks to [ezcGman](https://github.com/ezcGman "ezcGman") for burning ti
 | Din        | Data bus in for the adressable LEDs                                           |
 | Dout       | Data bus out for the adressable LEDs                                          |
 
-*For compatibility reasons with rbg strips, the board exptects 24V (also dimmed with pwm) at the rgb pin headers. If you're driving your **strip with 12V**, please change the value for **R51, R61 and R71 to 5.1kΩ**.
+*For compatibility reasons with RGB strips, the board exptects 24V (also dimmed with pwm) at the rgb pin headers. If you're driving your **strip with 12V**, please change the value for **R51, R61 and R71 to 5.1kΩ**.
 ![Voltage deviders for encoder LED](https://github.com/andilge/Futai-Encoder-WS2811-ring/blob/main/images/v-devider-for-encoder-LED.png?raw=true)
 
 ## Schematic
-Dive deeper into echnical details in the folder 'datasheets-and-schematic'.
+Dive deeper into technical details in the folder 'datasheets-and-schematic'.
 
 ## Tools list
 ### Required
