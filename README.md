@@ -72,9 +72,9 @@ Dive deeper into echnical details in the folder 'datasheets-and-schematic'.
 - Solder
 
 ### Optional
-- For SMD components and addressale LEDs:
+- For SMD components and addressable LEDs:
   - A hot air soldering/re-flow station. However, the smallest parts are 0805 SMD components which can be soldered with a soldering iron. The LED's legs are very close together and easier to solder with hot air.
   - Solder paste
 - Tweezers
-- The famous IKEA cork coaster (Onderzetter) that gently takes up the heat of your soldering tools
+- The famous IKEA cork coaster (Onderzetter) that gently takes up the heat of your soldering tools.
 
