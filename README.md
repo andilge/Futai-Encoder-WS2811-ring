@@ -1,4 +1,4 @@
-![The PCB](https://github.com/andilge/Futai-Encoder-WS2811-ring/blob/main/images/front-and-back.png?raw=true)
+![The PCB](https://github.com/andilge/Futai-Encoder-WS2811-ring/blob/main/images/board-front-and-rear.png?raw=true)
 
 # Futai RGB encoder, 12 WS2811 F5 LED ring on a translucent blank cover panel
 The ultimate DIY human light controller interface plenty of colored LEDs.
