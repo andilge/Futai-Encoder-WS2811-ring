@@ -46,21 +46,21 @@ The board continues following the LED's specification and can handle these fault
 Special thanks to [ezcGman](https://github.com/ezcGman "ezcGman") for burning time and components to achieve this particular insight.
 
 ## Connector pinout
-| silkscreen | description                                                                   |
-|:----------:|-------------------------------------------------------------------------------|
-| 5V         | 5 Volt                                                                        |
-| GND        | Ground                                                                        |
-| EncA       | Encoder A                                                                     |
-| EncB       | Encoder B                                                                     |
-| SW         | Switch. On pressing the switch, 3.3 Volt are being passed to this header pin. |
-| RED        | Red LED in the rotary encoder. *See more information below !                  |
-| GRE        | Green LED in the rotary encoder. *See more information below !                |
-| BLU        | Blue LED in the rotary encoder. *See more information below !                 |
-| Din        | Data bus in for the adressable LEDs                                           |
-| Dout       | Data bus out for the adressable LEDs                                          |
+| silkscreen | description                                                                                |
+|:----------:|--------------------------------------------------------------------------------------------|
+| 5V         | 5 Volt                                                                                     |
+| GND        | Ground                                                                                     |
+| EncA       | Encoder A                                                                                  |
+| EncB       | Encoder B                                                                                  |
+| SW         | Switch. On pressing the switch, 3.3 Volt are being passed to this header pin.              |
+| RED        | High voltage level red channel for the rotary encoder LED. *See more information below !   |
+| GRE        | High voltage level green channel for the rotary encoder LED. *See more information below ! |
+| BLU        | High voltage level blue channel for the rotary encoder LED. *See more information below !  |
+| Din        | Data bus in for the adressable LEDs                                                        |
+| Dout       | Data bus out for the adressable LEDs                                                       |
 
 *For compatibility reasons with RGB strips, the board exptects 24V (also dimmed with pwm) at the rgb pin headers. If you're driving your **strip with 12V**, please change the value for **R51, R61 and R71 to 5.1kΩ**.
-![Voltage deviders for encoder LED](https://github.com/andilge/Futai-Encoder-WS2811-ring/blob/main/images/v-devider-for-encoder-LED.png?raw=true)
+![Voltage dividers for encoder LED](https://github.com/andilge/Futai-Encoder-WS2811-ring/blob/main/images/v-divider-for-encoder-LED.png?raw=true)
 
 ## Schematic
 Dive deeper into technical details in the folder 'datasheets-and-schematic'.
