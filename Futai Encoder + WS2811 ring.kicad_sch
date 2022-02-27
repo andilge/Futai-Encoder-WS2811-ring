@@ -2360,7 +2360,7 @@
     (property "Value" "MountingHole" (id 1) (at 196.85 116.8399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "andilge KiCad footprints:MountingHole_3.2mm_M3" (id 2) (at 194.31 115.57 0)
+    (property "Footprint" "andilge KiCad footprints:MountingHole_2.2mm_M2" (id 2) (at 194.31 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 194.31 115.57 0)
@@ -3567,7 +3567,7 @@
       (reference "D12") (unit 1) (value "WS2812D F5 hat") (footprint "andilge KiCad footprints:WS2811D-F5-1261")
     )
     (path "/612dc420-c0a9-4dad-8f27-8ff7c0ae1729"
-      (reference "H1") (unit 1) (value "MountingHole") (footprint "andilge KiCad footprints:MountingHole_3.2mm_M3")
+      (reference "H1") (unit 1) (value "MountingHole") (footprint "andilge KiCad footprints:MountingHole_2.2mm_M2")
     )
     (path "/d71593f7-09cf-4465-9cce-fd2751f1f4fa"
       (reference "J1") (unit 1) (value "Conn_02x05_Top_Bottom") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical")
