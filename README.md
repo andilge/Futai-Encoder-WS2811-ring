@@ -1,6 +1,6 @@
 ![The PCB](https://github.com/andilge/Futai-Encoder-WS2811-ring/blob/main/images/board-front-and-rear.png?raw=true)
 
-# Futai RGB encoder, 12 WS2811 F5 LED ring on a translucent blank cover panel
+# A sparkfun enlighted RGB rotary encoder and a ring of 12 WS2811 F5 LEDs behind a translucent blank cover panel
 The ultimate DIY human light controller interface plenty of colored LEDs.
 
 ## Credits
